@@ -1,3 +1,14 @@
+<img width="958" alt="image" src="https://github.com/ravindrakumarratre6/collegeexploper-table/assets/108799850/23655668-ccfa-4026-bd83-e648852544a7">
+ i have create a dummydata .json and ui render 
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
