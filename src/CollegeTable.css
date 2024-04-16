@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+  font-family: "Work Sans", sans-serif;
+}
+
+.table-container {
+  overflow-x: auto; /* Enable horizontal scrolling on small screens */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #88BDC4;
+  color: white;
+}
+.college-img {
+  width: 30px; /* Adjust the width of the image */
+  height: 30px; /* Adjust the height of the image */
+  margin:  0 2px -10px 0px; /* Add some spacing between the image and the college name */
+}
+
+.apply-btn {
+  color: #f88542;
+  border: none;
+  color: black;
+  padding: 8px 8px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.compare{
+  margin: 0 20px 0 20px;
+}
+/* Add responsive styles */
+@media screen and (max-width: 768px) {
+  th,
+  td {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  th,
+  td {
+    font-size: 12px;
+  }
+}
+
+.star-icon {
+  color: gold; /* Set the color of the star icon */
+  margin-right: 4px; /* Add some spacing between the star icon and the rank */
+}

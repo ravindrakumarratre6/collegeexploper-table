@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "img": "https://images.collegedunia.com/public/college_data/images/logos/1434977143jpjpjpjpj.jpg?h=43&w=43&mode=stretch",
+    "college": "IIT Madras - Indian Institute of Technology ,Chennai",
+    "loction": "Chennai, Tamil Nadu | AICTE Approved",
+    "courseFees": "2,09,000",
+    "placement": "21,00,000",
+    "collegeDuniaRank": "#3rd",
+    "userReview": "8.6/10",
+    "url":"https://collegedunia.com/iits-in-india"
+  },
+  {
+    "id": 2,
+    "img": "https://images.collegedunia.com/public/college_data/images/logos/col27802.gif?h=43&w=43&mode=stretch",
+    "college": "IIT Delhi - Indian Institute of Technology , New Delhi",
+    "loction": "New Delhi, Delhi NCR",
+    "courseFees": "2,54,000",
+    "placement": "25,00,000",
+    "collegeDuniaRank": "#1th",
+    "userReview": "8.7/10",
+   
+    "url":"https://collegedunia.com/university/25455-iit-delhi-indian-institute-of-technology-iitd-new-delhi"
+  },
+  {
+    "id": 3,
+    "img": "https://images.collegedunia.com/public/college_data/images/logos/1431953162ccgsygdygw.jpg?h=43&w=43&mode=stretch",
+    "college": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "loction": "Mumbai, Maharashtra |AICTE, UGC Approved",
+    "courseFees": "1,49,000",
+    "placement": "21,86,000",
+    "collegeDuniaRank": "#2th",
+    "userReview": "8.1/10","url":"https://collegedunia.com/iits-in-india"
+  },
+  {
+    "id": 4,
+    "img": "https://images.collegedunia.com/public/college_data/images/logos/1489041138e2.jpg?h=43&w=43&mode=stretch",
+    "college": "IIT Kharagpur - Indian Institute of Technology, Kharagpur",
+    "loction": "Kharagpur, West Bengal |AICTE, UGC, NBA Approved",
+    "courseFees": "1,29,000",
+    "placement": "2,60,00,000",
+    "collegeDuniaRank": "#4th",
+    "userReview": "8.8/10",
+    "url":"https://collegedunia.com/university/26007-iit-kharagpur-indian-institute-of-technology-iitkgp-kharagpur"
+  }
+]
